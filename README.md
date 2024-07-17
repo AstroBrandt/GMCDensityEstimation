@@ -1,0 +1,2 @@
+# GMCDensityEstimation
+Jupyter scripts to 
