@@ -1,4 +1,7 @@
 # Probablistic Model to Estimate Number Densities
+
+[![DOI](https://zenodo.org/badge/830004357.svg)](https://doi.org/10.5281/zenodo.14754247)
+
 This repository contains two Jupyter notebooks to showcase the model presented in Gaches & Grudić 2024 (A&A submitted). To run the scripts, the following packages will be needed:
 - numpy
 - scipy
